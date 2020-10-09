@@ -1,0 +1,10 @@
+.bg {
+  background-color: #a5f5df;
+}
+
+.bg > img {
+  width: 100vw;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
