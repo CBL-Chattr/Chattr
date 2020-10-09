@@ -1,0 +1,29 @@
+<svg id="Gruppe_9" data-name="Gruppe 9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="447" height="812" viewBox="0 0 447 812">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_12" data-name="Rechteck 12" width="375" height="812" rx="50" fill="#516091"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rechteck_9" data-name="Rechteck 9" width="375" height="812" rx="50" fill="#eef3ad"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rechteck_10" data-name="Rechteck 10" width="375" height="812" rx="50" fill="#74bec1"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rechteck_8" data-name="Rechteck 8" width="375" height="812" rx="50" fill="#adebbe"/>
+    </clipPath>
+  </defs>
+  <rect id="Rechteck_1" data-name="Rechteck 1" width="375" height="812" rx="50" fill="#516091"/>
+  <g id="Gruppe_maskieren_4" data-name="Gruppe maskieren 4" transform="translate(72)" clip-path="url(#clip-path)">
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="217.5" cy="217.5" r="217.5" transform="translate(-135 405)" fill="#516091"/>
+  </g>
+  <g id="Gruppe_maskieren_2" data-name="Gruppe maskieren 2" clip-path="url(#clip-path-2)">
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="274" cy="274" r="274" transform="translate(101 390)" fill="#eef3ad"/>
+  </g>
+  <g id="Gruppe_maskieren_1" data-name="Gruppe maskieren 1" clip-path="url(#clip-path-3)">
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="322.5" cy="322.5" r="322.5" transform="translate(-342 -199)" fill="#74bec1"/>
+  </g>
+  <g id="Gruppe_maskieren_3" data-name="Gruppe maskieren 3" clip-path="url(#clip-path-4)">
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="274" cy="274" r="274" transform="translate(137 -49)" fill="#adebbe" style="mix-blend-mode: hard-light;isolation: isolate"/>
+  </g>
+</svg>
