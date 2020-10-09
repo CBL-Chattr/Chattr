@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Gruppe_9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 375 812" style="enable-background:new 0 0 375 812;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#516091;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{clip-path:url(#SVGID_4_);}
+	.st3{fill:#EEF3AD;}
+	.st4{clip-path:url(#SVGID_6_);}
+	.st5{fill:#74BEC1;}
+	.st6{clip-path:url(#SVGID_8_);}
+	.st7{fill:#ADEBBE;}
+</style>
+<path id="Rechteck_1" class="st0" d="M50,0h275c27.6,0,50,22.4,50,50v712c0,27.6-22.4,50-50,50H50c-27.6,0-50-22.4-50-50V50
+	C0,22.4,22.4,0,50,0z"/>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M122,0h275c27.6,0,50,22.4,50,50v712c0,27.6-22.4,50-50,50H122c-27.6,0-50-22.4-50-50V50
+			C72,22.4,94.4,0,122,0z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Gruppe_maskieren_4" transform="translate(72)" class="st1">
+		<circle id="Ellipse_11" class="st0" cx="82.5" cy="622.5" r="217.5"/>
+	</g>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_3_" d="M50,0h275c27.6,0,50,22.4,50,50v712c0,27.6-22.4,50-50,50H50c-27.6,0-50-22.4-50-50V50C0,22.4,22.4,0,50,0z
+			"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Gruppe_maskieren_2" class="st2">
+		<circle id="Ellipse_10" class="st3" cx="375" cy="664" r="274"/>
+	</g>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_5_" d="M50,0h275c27.6,0,50,22.4,50,50v712c0,27.6-22.4,50-50,50H50c-27.6,0-50-22.4-50-50V50C0,22.4,22.4,0,50,0z
+			"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Gruppe_maskieren_1" class="st4">
+		<circle id="Ellipse_8" class="st5" cx="-19.5" cy="123.5" r="322.5"/>
+	</g>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_7_" d="M50,0h275c27.6,0,50,22.4,50,50v712c0,27.6-22.4,50-50,50H50c-27.6,0-50-22.4-50-50V50C0,22.4,22.4,0,50,0z
+			"/>
+	</defs>
+	<clipPath id="SVGID_8_">
+		<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Gruppe_maskieren_3" class="st6">
+		<circle id="Ellipse_9" class="st7" cx="411" cy="225" r="274"/>
+	</g>
+</g>
+</svg>
