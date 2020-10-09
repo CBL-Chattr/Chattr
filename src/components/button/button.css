@@ -5,7 +5,7 @@
   color: #eef3ad;
   background-color: var(--primary-color);
   border: none;
-  padding: 10px 20px;
-  width: 255px;
-  height: 60px;
+  padding: 12px 20px;
+  width: 100%;
+  margin-bottom: 1rem;
 }

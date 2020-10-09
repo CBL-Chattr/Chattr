@@ -1,27 +1,12 @@
-/* .welcome {
-  height: 100vh;
-  width: 100vw;
-  background-color: #1fc8db;
-  background-image: linear-gradient(
-    141deg,
-    #9fb8ad 0%,
-    #1fc8db 51%,
-    #2cb5e8 75%
-  );
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-} */
-
 .basic {
   background-image: url("../../assets/Hintergrund-01.svg");
   display: grid;
+  grid-template-rows: 1fr 3fr 1fr;
   place-items: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: center center;
-  /* object-position: 50% 50%; */
+  background-position: center;
   min-height: 100vh;
+  max-width: 100vw;
 }
