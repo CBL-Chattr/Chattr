@@ -1,0 +1,34 @@
+.card {
+  background: rgba(260, 260, 260, 0.5);
+  filter: blur(50%);
+  border-radius: 30px;
+  padding: 1rem;
+  margin: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+.small-typing {
+  text-align: center;
+  color: var(--primary-color);
+  font-size: 12px;
+}
+
+.mb-number {
+  display: block;
+  border-radius: 10px;
+  border: none;
+  background: rgba(260, 260, 260, 0.8);
+  width: 250px;
+  height: 30px;
+  margin: 0.8rem 0;
+}
+h2 {
+  color: var(--primary-color);
+}
+
+button {
+  display: block;
+}
